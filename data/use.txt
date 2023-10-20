@@ -1,0 +1,5 @@
+user, user@gmail.com, 123, Firstname, Lastname, 34
+user, info@gmail.com, 123, jishan, tanvir, 38
+admin, admin@gmail.com, 123, admin, admin, 24
+user, cexa@mailinator.com, Pa$$w0rd!, Savannah, Goff, 13
+user, pidu@mailinator.com, Pa$$w0rd!, Lillian, Puckett, 41
